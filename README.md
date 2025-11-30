@@ -9,6 +9,10 @@ O objetivo deste repositório é apresentar minhas habilidades em:
 - Storytelling com dados
 - Boas práticas de ETL e DAX
 
+🔗 **Fotos dos Dashboards (Painéis)**
+Acesse as imagens dos painéis aqui:
+[INDICADOR – Dashboard](https://github.com/airosa32/Power_BI____Projetos/blob/main/INDICADORES%20-%20Dashboard/INDICADOR.png)
+
 📁 **Estrutura do Repositório**
 O repositório está organizado em diversas pastas, cada uma representando um projeto:
 
