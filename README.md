@@ -11,9 +11,9 @@ O objetivo deste repositório é apresentar minhas habilidades em:
 
 🔗 **Fotos dos Dashboards (Painéis)**
 Acesse as imagens dos painéis aqui:
-  [RH - Dashboard](https://github.com/airosa32/Power_BI____Projetos/blob/main/RH%20-%20Dashboard/RH.png)
-  [INDICADOR – Dashboard](https://github.com/airosa32/Power_BI____Projetos/blob/main/INDICADORES%20-%20Dashboard/INDICADOR.png)
-  [LOCAÇÃO VEICULO - Dashboard](https://github.com/airosa32/Power_BI____Projetos/blob/main/LOCA%C3%87%C3%83O%20VEICULO%20-%20Dashboard/LOCA%C3%87%C3%83O.png)
+- [RH - Dashboard](https://github.com/airosa32/Power_BI____Projetos/blob/main/RH%20-%20Dashboard/RH.png)
+- [INDICADOR – Dashboard](https://github.com/airosa32/Power_BI____Projetos/blob/main/INDICADORES%20-%20Dashboard/INDICADOR.png)
+- [LOCAÇÃO VEICULO - Dashboard](https://github.com/airosa32/Power_BI____Projetos/blob/main/LOCA%C3%87%C3%83O%20VEICULO%20-%20Dashboard/LOCA%C3%87%C3%83O.png)
 
 📁 **Estrutura do Repositório**
 O repositório está organizado em diversas pastas, cada uma representando um projeto:
