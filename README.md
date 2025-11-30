@@ -12,12 +12,9 @@ O objetivo deste repositório é apresentar minhas habilidades em:
 📁 **Estrutura do Repositório**
 O repositório está organizado em diversas pastas, cada uma representando um projeto:
 
-/Projeto_Vendas  
-/Projeto_Financeiro  
-/Projeto_RecursosHumanos  
-/Projeto_RetencaoClientes  
-/Projeto_Logistica  
-/Projeto_Ecommerce  
+/RH - Dashboard 
+/INDICADORES - Dashboard  
+/LOCAÇÃO VEICULO 
 ...
 
 Cada pasta contém:
