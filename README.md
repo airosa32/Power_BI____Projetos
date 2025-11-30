@@ -18,9 +18,9 @@ Acesse as imagens dos painéis aqui:
 📁 **Estrutura do Repositório**
 O repositório está organizado em diversas pastas, cada uma representando um projeto:
 
-/RH - Dashboard 
-/INDICADORES - Dashboard  
-/LOCAÇÃO VEICULO 
+- /RH - Dashboard 
+- /INDICADORES - Dashboard  
+- /LOCAÇÃO VEICULO - Dashboard
 ...
 
 Cada pasta contém:
